@@ -1,5 +1,5 @@
 # Weather App
-
+![captura1](https://user-images.githubusercontent.com/16615266/52809326-8dbf7900-3055-11e9-9681-8aeaf58fc441.JPG)
 ## Usage
 
 ### Installation
